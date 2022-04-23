@@ -2,7 +2,7 @@
 - 👀 I’m interested in database design & web development
 - 🌱 I’m currently learning Blazor
 
-I write my learning experiences at:
+I write my learning experience at:
 https://medium.com/informatics
 <!---
 emramadhan/emramadhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
